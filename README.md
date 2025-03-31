@@ -1,3 +1,4 @@
+THIS IS A COFFEE CAFE PROJECT
 <img src="Preview/Screenshot 2024-08-21 at 12.31.46 AM.png"><br>
 
 <img src="Preview/Screenshot 2024-08-21 at 12.32.06 AM.png"><br>
