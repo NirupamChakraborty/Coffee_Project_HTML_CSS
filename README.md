@@ -1,4 +1,4 @@
-THIS IS A COFFEE CAFE PROJECT
+<b>THIS IS A COFFEE CAFE PROJECT</b>
 <br><hr>
 <img src="Preview/Screenshot 2024-08-21 at 12.31.46 AM.png"><br>
 
